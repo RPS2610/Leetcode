@@ -4,8 +4,8 @@ public:
         stack<int> st;
         int j = 0;
 
-        for (int x : pushed) {
-            st.push(x);
+        for (int i = 0; i < pushed.size(); i++) {
+            st.push(pushed[i]);
 
             while (!st.empty() && st.top() == popped[j]) {
                 st.pop();
