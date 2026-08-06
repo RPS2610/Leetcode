@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RPS2610/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/RPS2610/Leetcode/tree/master/0011-container-with-most-water) |
 | [0946-validate-stack-sequences](https://github.com/RPS2610/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1472-design-browser-history](https://github.com/RPS2610/Leetcode/tree/master/1472-design-browser-history) |
 | [3731-find-missing-elements](https://github.com/RPS2610/Leetcode/tree/master/3731-find-missing-elements) |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RPS2610/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RPS2610/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RPS2610/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
