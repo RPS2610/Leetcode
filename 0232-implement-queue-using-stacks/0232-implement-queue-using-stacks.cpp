@@ -1,37 +1,58 @@
-class MyQueue {
-private:
-    stack<int> s1, s2;
+#include <stack>
+using namespace std;
 
-    void transfer() {
-        if (s2.empty()) {
-            while (!s1.empty()) {
-                s2.push(s1.top());
-                s1.pop();
-            }
-        }
-    }
+class MyQueue
+{
+private:
+    stack<int> stack1;
+    stack<int> stack2;
 
 public:
-    MyQueue() {
+
+    MyQueue()
+    {
     }
 
-    void push(int x) {
-        s1.push(x);
+    void push(int x)
+    {
+        stack1.push(x);
     }
 
-    int pop() {
-        transfer();
-        int val = s2.top();
-        s2.pop();
-        return val;
+    int pop()
+    {
+        // Transfer elements if stack2 is empty
+        if (stack2.empty())
+        {
+            while (!stack1.empty())
+            {
+                stack2.push(stack1.top());
+                stack1.pop();
+            }
+        }
+
+        int value = stack2.top();
+        stack2.pop();
+
+        return value;
     }
 
-    int peek() {
-        transfer();
-        return s2.top();
+    int peek()
+    {
+        // Transfer elements if stack2 is empty
+        if (stack2.empty())
+        {
+            while (!stack1.empty())
+            {
+                stack2.push(stack1.top());
+                stack1.pop();
+            }
+        }
+
+        return stack2.top();
     }
 
-    bool empty() {
-        return s1.empty() && s2.empty();
+    bool empty()
+    {
+        return stack1.empty() && stack2.empty();
     }
 };
