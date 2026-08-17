@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/RPS2610/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1140-stone-game-ii](https://github.com/RPS2610/Leetcode/tree/master/1140-stone-game-ii) |
 | [1472-design-browser-history](https://github.com/RPS2610/Leetcode/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/RPS2610/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RPS2610/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RPS2610/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/RPS2610/Leetcode/tree/master/3731-find-missing-elements) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RPS2610/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RPS2610/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1472-design-browser-history](https://github.com/RPS2610/Leetcode/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/RPS2610/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Stack
 |  |
 | ------- |
@@ -41,21 +43,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/RPS2610/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0933-number-of-recent-calls](https://github.com/RPS2610/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/RPS2610/Leetcode/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/RPS2610/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/RPS2610/Leetcode/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/RPS2610/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/RPS2610/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/RPS2610/Leetcode/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/RPS2610/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RPS2610/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RPS2610/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/RPS2610/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/RPS2610/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Segment Tree
 |  |
 | ------- |
