@@ -1,50 +1,39 @@
-class BrowserHistory {
-    
-    struct Node {
-        string url;
-        Node* prev;
-        Node* next;
-
-        Node(string u) {
-            url = u;
-            prev = nullptr;
-            next = nullptr;
-        }
-    };
-
-    Node* current;
+class BrowserHistory
+{
+private:
+    vector<string> history;
+    int current;
 
 public:
-    BrowserHistory(string homepage) {
-        current = new Node(homepage);
+    BrowserHistory(string homepage)
+    {
+        history.push_back(homepage);
+        current = 0;
     }
-    
-    void visit(string url) {
-        Node* newPage = new Node(url);
 
-        current->next = nullptr;
+    void visit(string url)
+    {
+        // Remove forward history
+        history.resize(current + 1);
 
-        newPage->prev = current;
-        current->next = newPage;
+        // Add new URL
+        history.push_back(url);
 
-        current = newPage;
+        // Move to new page
+        current++;
     }
-    
-    string back(int steps) {
-        while (steps > 0 && current->prev != nullptr) {
-            current = current->prev;
-            steps--;
-        }
 
-        return current->url;
+    string back(int steps)
+    {
+        current = max(0, current - steps);
+
+        return history[current];
     }
-    
-    string forward(int steps) {
-        while (steps > 0 && current->next != nullptr) {
-            current = current->next;
-            steps--;
-        }
 
-        return current->url;
+    string forward(int steps)
+    {
+        current = min((int)history.size() - 1, current + steps);
+
+        return history[current];
     }
 };
