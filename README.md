@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/RPS2610/Leetcode/tree/master/0018-4sum) |
 | [0946-validate-stack-sequences](https://github.com/RPS2610/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1140-stone-game-ii](https://github.com/RPS2610/Leetcode/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/RPS2610/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1472-design-browser-history](https://github.com/RPS2610/Leetcode/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/RPS2610/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RPS2610/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RPS2610/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0895-maximum-frequency-stack](https://github.com/RPS2610/Leetcode/tree/master/0895-maximum-frequency-stack) |
+| [1386-cinema-seat-allocation](https://github.com/RPS2610/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RPS2610/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RPS2610/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RPS2610/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RPS2610/Leetcode/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/RPS2610/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RPS2610/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RPS2610/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -199,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/RPS2610/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RPS2610/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
