@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RPS2610/Leetcode/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/RPS2610/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/RPS2610/Leetcode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/RPS2610/Leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/RPS2610/Leetcode/tree/master/1872-stone-game-viii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RPS2610/Leetcode/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/RPS2610/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/RPS2610/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
