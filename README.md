@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RPS2610/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RPS2610/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RPS2610/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/RPS2610/Leetcode/tree/master/0066-plus-one) |
 | [0946-validate-stack-sequences](https://github.com/RPS2610/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1140-stone-game-ii](https://github.com/RPS2610/Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/RPS2610/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/RPS2610/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/RPS2610/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RPS2610/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/RPS2610/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/RPS2610/Leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/RPS2610/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/RPS2610/Leetcode/tree/master/0509-fibonacci-number) |
