@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RPS2610/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RPS2610/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RPS2610/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/RPS2610/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RPS2610/Leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/RPS2610/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/RPS2610/Leetcode/tree/master/0509-fibonacci-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RPS2610/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/RPS2610/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RPS2610/Leetcode/tree/master/0069-sqrtx) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RPS2610/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RPS2610/Leetcode/tree/master/0022-generate-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RPS2610/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
