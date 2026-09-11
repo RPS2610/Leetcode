@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RPS2610/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RPS2610/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RPS2610/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/RPS2610/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/RPS2610/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/RPS2610/Leetcode/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/RPS2610/Leetcode/tree/master/1670-design-front-middle-back-queue) |
