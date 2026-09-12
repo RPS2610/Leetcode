@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RPS2610/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RPS2610/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/RPS2610/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/RPS2610/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0946-validate-stack-sequences](https://github.com/RPS2610/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1140-stone-game-ii](https://github.com/RPS2610/Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/RPS2610/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RPS2610/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RPS2610/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RPS2610/Leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/RPS2610/Leetcode/tree/master/0088-merge-sorted-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RPS2610/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/RPS2610/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RPS2610/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RPS2610/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RPS2610/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/RPS2610/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/RPS2610/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RPS2610/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
