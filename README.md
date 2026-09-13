@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RPS2610/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/RPS2610/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RPS2610/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RPS2610/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0835-image-overlap](https://github.com/RPS2610/Leetcode/tree/master/0835-image-overlap) |
 | [0946-validate-stack-sequences](https://github.com/RPS2610/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1140-stone-game-ii](https://github.com/RPS2610/Leetcode/tree/master/1140-stone-game-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RPS2610/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RPS2610/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RPS2610/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RPS2610/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RPS2610/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RPS2610/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RPS2610/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RPS2610/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RPS2610/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RPS2610/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RPS2610/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RPS2610/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
 |  |
@@ -369,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/RPS2610/Leetcode/tree/master/0835-image-overlap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RPS2610/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
