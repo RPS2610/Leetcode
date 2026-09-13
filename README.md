@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RPS2610/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RPS2610/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/RPS2610/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/RPS2610/Leetcode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/RPS2610/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RPS2610/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/RPS2610/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RPS2610/Leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/RPS2610/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/RPS2610/Leetcode/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/RPS2610/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/RPS2610/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RPS2610/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
