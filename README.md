@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RPS2610/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RPS2610/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/RPS2610/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/RPS2610/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/RPS2610/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/RPS2610/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/RPS2610/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/RPS2610/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/RPS2610/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/RPS2610/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/RPS2610/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/RPS2610/Leetcode/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/RPS2610/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/RPS2610/Leetcode/tree/master/1927-sum-game) |
