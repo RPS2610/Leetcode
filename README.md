@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/RPS2610/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RPS2610/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/RPS2610/Leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/RPS2610/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/RPS2610/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/RPS2610/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/RPS2610/Leetcode/tree/master/1140-stone-game-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/RPS2610/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/RPS2610/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RPS2610/Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/RPS2610/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RPS2610/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RPS2610/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RPS2610/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
