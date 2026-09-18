@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RPS2610/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RPS2610/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RPS2610/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/RPS2610/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RPS2610/Leetcode/tree/master/0409-longest-palindrome) |
 | [0895-maximum-frequency-stack](https://github.com/RPS2610/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1386-cinema-seat-allocation](https://github.com/RPS2610/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/RPS2610/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/RPS2610/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RPS2610/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/RPS2610/Leetcode/tree/master/0389-find-the-difference) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RPS2610/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RPS2610/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/RPS2610/Leetcode/tree/master/3731-find-missing-elements) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/RPS2610/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RPS2610/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/RPS2610/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/RPS2610/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RPS2610/Leetcode/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/RPS2610/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RPS2610/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RPS2610/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/RPS2610/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RPS2610/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/RPS2610/Leetcode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/RPS2610/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RPS2610/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/RPS2610/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
