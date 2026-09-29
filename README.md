@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RPS2610/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/RPS2610/Leetcode/tree/master/0258-add-digits) |
 | [0946-validate-stack-sequences](https://github.com/RPS2610/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/RPS2610/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/RPS2610/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RPS2610/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/RPS2610/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RPS2610/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/RPS2610/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/RPS2610/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/RPS2610/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/RPS2610/Leetcode/tree/master/0507-perfect-number) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RPS2610/Leetcode/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RPS2610/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RPS2610/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RPS2610/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
