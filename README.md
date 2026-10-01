@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RPS2610/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RPS2610/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RPS2610/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
 | [0835-image-overlap](https://github.com/RPS2610/Leetcode/tree/master/0835-image-overlap) |
 | [0946-validate-stack-sequences](https://github.com/RPS2610/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1140-stone-game-ii](https://github.com/RPS2610/Leetcode/tree/master/1140-stone-game-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RPS2610/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RPS2610/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RPS2610/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RPS2610/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RPS2610/Leetcode/tree/master/0409-longest-palindrome) |
 | [0895-maximum-frequency-stack](https://github.com/RPS2610/Leetcode/tree/master/0895-maximum-frequency-stack) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/RPS2610/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/RPS2610/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RPS2610/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RPS2610/Leetcode/tree/master/0389-find-the-difference) |
 | [1096-brace-expansion-ii](https://github.com/RPS2610/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RPS2610/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/RPS2610/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RPS2610/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/RPS2610/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RPS2610/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/RPS2610/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/RPS2610/Leetcode/tree/master/0507-perfect-number) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/RPS2610/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/RPS2610/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RPS2610/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/RPS2610/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RPS2610/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RPS2610/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -403,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RPS2610/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/RPS2610/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RPS2610/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RPS2610/Leetcode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/RPS2610/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RPS2610/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
