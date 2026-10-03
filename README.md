@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RPS2610/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RPS2610/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RPS2610/Leetcode/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/RPS2610/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
 | [0835-image-overlap](https://github.com/RPS2610/Leetcode/tree/master/0835-image-overlap) |
 | [0946-validate-stack-sequences](https://github.com/RPS2610/Leetcode/tree/master/0946-validate-stack-sequences) |
