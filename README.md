@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RPS2610/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/RPS2610/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/RPS2610/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/RPS2610/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RPS2610/Leetcode/tree/master/0409-longest-palindrome) |
 | [0895-maximum-frequency-stack](https://github.com/RPS2610/Leetcode/tree/master/0895-maximum-frequency-stack) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RPS2610/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/RPS2610/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RPS2610/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/RPS2610/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/RPS2610/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RPS2610/Leetcode/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/RPS2610/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RPS2610/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/RPS2610/Leetcode/tree/master/0383-ransom-note) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RPS2610/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Memoization
 |  |
