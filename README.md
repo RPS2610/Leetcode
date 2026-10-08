@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RPS2610/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RPS2610/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RPS2610/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/RPS2610/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/RPS2610/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
 | [0835-image-overlap](https://github.com/RPS2610/Leetcode/tree/master/0835-image-overlap) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RPS2610/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RPS2610/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RPS2610/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/RPS2610/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/RPS2610/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/RPS2610/Leetcode/tree/master/0383-ransom-note) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RPS2610/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/RPS2610/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RPS2610/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RPS2610/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RPS2610/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
