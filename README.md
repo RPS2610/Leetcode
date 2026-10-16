@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RPS2610/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RPS2610/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RPS2610/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/RPS2610/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/RPS2610/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RPS2610/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RPS2610/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/RPS2610/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RPS2610/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/RPS2610/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/RPS2610/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RPS2610/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RPS2610/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RPS2610/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RPS2610/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/RPS2610/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RPS2610/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RPS2610/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RPS2610/Leetcode/tree/master/0344-reverse-string) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RPS2610/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/RPS2610/Leetcode/tree/master/0202-happy-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
