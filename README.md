@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RPS2610/Leetcode/tree/master/0022-generate-parentheses) |
+| [0401-binary-watch](https://github.com/RPS2610/Leetcode/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/RPS2610/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RPS2610/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/RPS2610/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/RPS2610/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RPS2610/Leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/RPS2610/Leetcode/tree/master/0401-binary-watch) |
 | [1386-cinema-seat-allocation](https://github.com/RPS2610/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RPS2610/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/RPS2610/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
